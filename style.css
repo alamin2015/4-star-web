@@ -1,0 +1,59 @@
+header {
+    text-align: center;
+    text-decoration: blue;
+}
+
+header h3 {
+    text-decoration: underline;
+}
+
+h1 {
+    background: aqua;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.one img {
+    margin: 20px;
+    width: 100%;
+}
+
+.one h2 {
+    text-decoration: underline;
+}
+
+.two {
+    background-color: aquamarine;
+    text-align: center;
+
+}
+
+.rules {
+    text-decoration: underline;
+}
+
+main h1 {
+    text-align: center;
+}
+
+.four {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.nagad {
+    background-color: skyblue;
+}
+
+.dutch {
+    background-color: skyblue;
+}
+
+.amir {
+    height: 96%;
+}
+
+.alamin {
+    height: 96%;
+}
